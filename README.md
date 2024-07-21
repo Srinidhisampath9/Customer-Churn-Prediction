@@ -53,4 +53,4 @@ e. ROC-AUC Curve
 The results of the predictive models are visualized and compared. The model with the best performance is highlighted.
 
 ## Contributors
-Your Name (Your GitHub Profile)
+Srinidhi Sampath (https://github.com/Srinidhisampath9)
